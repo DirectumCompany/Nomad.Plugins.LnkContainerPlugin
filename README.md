@@ -17,7 +17,7 @@
 ```
 <configuration>
   <settings>
-    <credentials share="\\nasdrive\docs\" user="user" password="password" />
+    <credentials share="\\NASSERVER\docs\" user="user" password="password" />
   </settings>
 </configuration>
 ```
